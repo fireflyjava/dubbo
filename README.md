@@ -78,21 +78,21 @@ d:\kevin\zookeeper\bin\zkServer.sh start
 d:\kevin\zookeeper\bin\zkServer.sh stop
 ```
 
-##Dubbo与SpringBoot的集成
+## Dubbo与SpringBoot的集成
 
-###环境要求
+### 环境要求
 
 - JDK：version 6 或更高
 - Gradle：gradle4.0 或更高
 
-###Gradle 依赖
+### Gradle 依赖
 
 ```
 compile 'com.alibaba.boot:dubbo-spring-boot-starter:0.1.0'
 compile 'com.101tec:zkclient:0.10'
 ```
 
-###创建dubbo-api工程
+### 创建dubbo-api工程
 
 服务消费者和服务提供者依赖相同的接口，推荐将接口的定义放在独立的模块便于共享给给服务消费者和提供者。
 
@@ -107,7 +107,7 @@ public interface OrderService {
 }
 ```
 
-###创建dubbo-provider
+### 创建dubbo-provider
 
 实例服务接口
 
@@ -191,7 +191,7 @@ management.health.dubbo.status.defaults = memory
 management.health.dubbo.status.extras = load,threadpool
 ```
 
-###创建dubbo-comsumer
+### 创建dubbo-comsumer
 
 服务消费者要求Spring Bean以注解方式关联到OrderService
 
@@ -284,7 +284,7 @@ endpoints.dubbo.enabled = true
 ## StatusChecker Name defaults (default : "memory", "load" )
 management.health.dubbo.status.defaults = memory
 ```
-##Dubbo-admin的安装
+## Dubbo-admin的安装
 管理控制台的主要功能包含：路由规则，动态配置，服务降级，访问控制，权重调整，负载均衡，等管理功能。
 
 [官网下载tomcat](http://apache.etoak.com/tomcat/tomcat-6/v6.0.35/bin/apache-tomcat-6.0.35.tar.gz)
