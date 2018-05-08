@@ -6,8 +6,8 @@
 
 ## Dubbo 简介 
 Apache Dubbo是由阿里巴巴提供开源的高性能的RPC Java框架。在众多RPC框架中，Dubbo是基于定义服务的想法，指定可以通过参数和返回类型的方式远程调用的方法。在服务提供方，服务提供者实现服务接口并处理消费者的调用请求。在服务消费方，消费方通过RPC协议消费服务。
-##Dubbo 架构
-![](E:\kevin\temp\dubbo-architecture.png)
+## Dubbo 架构
+![](http://dubbo.apache.org/images//dubbo-architecture.png)
 
 Provider： 服务提供者
 
