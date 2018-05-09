@@ -1,0 +1,2845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="218b618b-cbe5-47a1-88b2-b0c83e31a84c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/dubbo-api/.gradle/" />
+    <ignored path="$PROJECT_DIR$/dubbo-api/build/" />
+    <ignored path="$PROJECT_DIR$/dubbo-api/out/" />
+    <ignored path="$PROJECT_DIR$/dubbo-common/.gradle/" />
+    <ignored path="$PROJECT_DIR$/dubbo-common/build/" />
+    <ignored path="$PROJECT_DIR$/dubbo-common/out/" />
+    <ignored path="$PROJECT_DIR$/dubbo-consumer/.gradle/" />
+    <ignored path="$PROJECT_DIR$/dubbo-consumer/build/" />
+    <ignored path="$PROJECT_DIR$/dubbo-consumer/out/" />
+    <ignored path="$PROJECT_DIR$/dubbo-provider/.gradle/" />
+    <ignored path="$PROJECT_DIR$/dubbo-provider/build/" />
+    <ignored path="$PROJECT_DIR$/dubbo-provider/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/dubbo-api">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dubbo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-api/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-consumer/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2875">
+              <caret line="125" column="55" lean-forward="false" selection-start-line="125" selection-start-column="55" selection-end-line="125" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="53" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-api/src/main/java/com/dubbo/service/OrderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderInfoController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/consumer/web/controller/OrderInfoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DubboConsumerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/consumer/web/DubboConsumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="10" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>build</find>
+      <find>dubbo.protocol.url</find>
+      <find>has been built</find>
+      <find>maven-antrun-plugin</find>
+      <find>dubbo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="E:\kevin\22_soft\gradle-4.0-all\gradle-4.0" />
+        <entry key="$PROJECT_DIR$/dubbo-api" value="E:\kevin\22_soft\gradle-4.0-all\gradle-4.0" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.0" />
+        <entry key="$PROJECT_DIR$/dubbo-api" value="4.0" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="dubbo" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="dubbo" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":dubbo-api" />
+                <option name="path" value="$PROJECT_DIR$/dubbo-api" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":dubbo-common" />
+                <option name="path" value="$PROJECT_DIR$/dubbo-common" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":dubbo-consumer" />
+                <option name="path" value="$PROJECT_DIR$/dubbo-consumer" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":dubbo-provider" />
+                <option name="path" value="$PROJECT_DIR$/dubbo-provider" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="dubbo-api" />
+              <option name="path" value="$PROJECT_DIR$/dubbo-api" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="dubbo" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":dubbo-api" />
+                <option name="path" value="$PROJECT_DIR$/dubbo-api" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":dubbo-common" />
+                <option name="path" value="$PROJECT_DIR$/dubbo-common" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":dubbo-consumer" />
+                <option name="path" value="$PROJECT_DIR$/dubbo-consumer" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":dubbo-provider" />
+                <option name="path" value="$PROJECT_DIR$/dubbo-provider" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'dubbo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'dubbo'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'dubbo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'dubbo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'dubbo'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'dubbo'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'dubbo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'dubbo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'dubbo' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':dubbo-api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="resoucesExtract" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dubbo-api">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':dubbo-api'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':dubbo-api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':dubbo-api'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':dubbo-api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="dist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':dubbo-api'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':dubbo-api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="resoucesExtract" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':dubbo-api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':dubbo-api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':dubbo-api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':dubbo-api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-api" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dubbo-common">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':dubbo-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':dubbo-common'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':dubbo-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':dubbo-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':dubbo-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':dubbo-common'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="dist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':dubbo-common'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':dubbo-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':dubbo-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="resoucesExtract" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':dubbo-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-common" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dubbo-consumer">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':dubbo-consumer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':dubbo-consumer'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':dubbo-consumer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':dubbo-consumer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':dubbo-consumer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':dubbo-consumer'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="dist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':dubbo-consumer'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':dubbo-consumer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':dubbo-consumer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="resoucesExtract" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':dubbo-consumer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-consumer" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dubbo-provider">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':dubbo-provider'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':dubbo-provider'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':dubbo-provider'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':dubbo-provider'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':dubbo-provider'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':dubbo-provider'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="dist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':dubbo-provider'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':dubbo-provider'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':dubbo-provider'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="resoucesExtract" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':dubbo-provider'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/dubbo-provider" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9129885352247" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="4000506754" />
+        <entry key="$PROJECT_DIR$/dubbo-api" value="9129885352247" />
+        <entry key="$PROJECT_DIR$/dubbo-api/build.gradle" value="3146474550" />
+        <entry key="$PROJECT_DIR$/dubbo-api/settings.gradle" value="1228969995" />
+        <entry key="$PROJECT_DIR$/dubbo-common/build.gradle" value="1120856456" />
+        <entry key="$PROJECT_DIR$/dubbo-consumer/build.gradle" value="4170464537" />
+        <entry key="$PROJECT_DIR$/dubbo-provider/build.gradle" value="3856684076" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="243367820" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/613b5a0e2da9c2a6da437c44c06a0ee3348a66a6/spring-boot-gradle-plugin-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/b8674c642397658695bd00c0dd0a58609abdcdb0/spring-boot-gradle-plugin-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/5c802f762d2d87efc9d4974f350662c7eb728b79/spring-boot-loader-tools-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/4a4bf8e3bb3ee28888862f90a9566ff872e7e2f0/spring-boot-loader-tools-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/c4c526dcd345940951e92c4678dc49ce697ee540/spring-core-4.3.16.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/fe3f4186562c0dfa70a09510f886cc11a483ddde/spring-core-4.3.16.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/dubbo-api">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/613b5a0e2da9c2a6da437c44c06a0ee3348a66a6/spring-boot-gradle-plugin-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/b8674c642397658695bd00c0dd0a58609abdcdb0/spring-boot-gradle-plugin-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/5c802f762d2d87efc9d4974f350662c7eb728b79/spring-boot-loader-tools-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/4a4bf8e3bb3ee28888862f90a9566ff872e7e2f0/spring-boot-loader-tools-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/c4c526dcd345940951e92c4678dc49ce697ee540/spring-core-4.3.16.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/fe3f4186562c0dfa70a09510f886cc11a483ddde/spring-core-4.3.16.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/dubbo-api" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/dubbo-common">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/613b5a0e2da9c2a6da437c44c06a0ee3348a66a6/spring-boot-gradle-plugin-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/b8674c642397658695bd00c0dd0a58609abdcdb0/spring-boot-gradle-plugin-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/5c802f762d2d87efc9d4974f350662c7eb728b79/spring-boot-loader-tools-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/4a4bf8e3bb3ee28888862f90a9566ff872e7e2f0/spring-boot-loader-tools-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/c4c526dcd345940951e92c4678dc49ce697ee540/spring-core-4.3.16.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/fe3f4186562c0dfa70a09510f886cc11a483ddde/spring-core-4.3.16.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/dubbo-common" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/dubbo-consumer">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/613b5a0e2da9c2a6da437c44c06a0ee3348a66a6/spring-boot-gradle-plugin-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/b8674c642397658695bd00c0dd0a58609abdcdb0/spring-boot-gradle-plugin-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/5c802f762d2d87efc9d4974f350662c7eb728b79/spring-boot-loader-tools-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/4a4bf8e3bb3ee28888862f90a9566ff872e7e2f0/spring-boot-loader-tools-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/c4c526dcd345940951e92c4678dc49ce697ee540/spring-core-4.3.16.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/fe3f4186562c0dfa70a09510f886cc11a483ddde/spring-core-4.3.16.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/dubbo-consumer" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/dubbo-provider">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/613b5a0e2da9c2a6da437c44c06a0ee3348a66a6/spring-boot-gradle-plugin-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/b8674c642397658695bd00c0dd0a58609abdcdb0/spring-boot-gradle-plugin-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/5c802f762d2d87efc9d4974f350662c7eb728b79/spring-boot-loader-tools-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/4a4bf8e3bb3ee28888862f90a9566ff872e7e2f0/spring-boot-loader-tools-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/c4c526dcd345940951e92c4678dc49ce697ee540/spring-core-4.3.16.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/fe3f4186562c0dfa70a09510f886cc11a483ddde/spring-core-4.3.16.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/dubbo-provider" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="dubbo" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/announce" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/antlr" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/base-services" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/base-services-groovy" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/build-cache-http" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/build-comparison" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/build-init" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/cli" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/code-quality" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/composite-builds" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/core" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/dependency-management" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/diagnostics" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/ear" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/ide" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/ide-native" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/ide-play" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/installation-beacon" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/internal-android-performance-testing" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/internal-integ-testing" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/internal-performance-testing" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/internal-testing" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/ivy" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/jacoco" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/javascript" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/jvm-services" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/language-groovy" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/language-java" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/language-jvm" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/language-native" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/language-scala" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/launcher" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/logging" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/maven" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/messaging" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/model-core" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/model-groovy" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/native" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/osgi" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/platform-base" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/platform-jvm" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/platform-native" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/platform-play" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/plugin-development" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/plugin-use" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/plugins" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/process-services" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/publish" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/reporting" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/resources" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/resources-http" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/resources-s3" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/resources-sftp" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/scala" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/signing" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/test-kit" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/testing-base" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/testing-jvm" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/testing-native" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/tooling-api" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/tooling-api-builders" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/workers" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/wrapper" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/ant-1.9.6.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/ant-launcher-1.9.6.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-base-services-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-base-services-groovy-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-cli-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-core-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-docs-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-installation-beacon-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-jvm-services-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-launcher-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-logging-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-messaging-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-model-core-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-model-groovy-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-native-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-process-services-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-resources-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-runtime-api-info-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-script-kotlin-0.9.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-script-kotlin-compiler-plugin-0.9.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-script-kotlin-tooling-builders-0.9.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-script-kotlin-tooling-models-0.9.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-tooling-api-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-wrapper-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/groovy-all-2.4.11.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-announce-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-antlr-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-build-cache-http-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-build-comparison-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-build-init-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-code-quality-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-composite-builds-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-dependency-management-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-diagnostics-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-ear-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-ide-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-ide-native-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-ide-play-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-ivy-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-jacoco-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-javascript-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-language-groovy-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-language-java-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-language-jvm-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-language-native-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-language-scala-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-maven-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-osgi-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-platform-base-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-platform-jvm-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-platform-native-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-platform-play-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-plugin-development-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-plugin-use-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-plugins-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-publish-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-reporting-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-resources-http-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-resources-s3-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-resources-sftp-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-scala-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-signing-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-test-kit-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-testing-base-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-testing-jvm-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-testing-native-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-tooling-api-builders-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-workers-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dubbo-api">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/613b5a0e2da9c2a6da437c44c06a0ee3348a66a6/spring-boot-gradle-plugin-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/b8674c642397658695bd00c0dd0a58609abdcdb0/spring-boot-gradle-plugin-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/5c802f762d2d87efc9d4974f350662c7eb728b79/spring-boot-loader-tools-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/4a4bf8e3bb3ee28888862f90a9566ff872e7e2f0/spring-boot-loader-tools-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/c4c526dcd345940951e92c4678dc49ce697ee540/spring-core-4.3.16.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/fe3f4186562c0dfa70a09510f886cc11a483ddde/spring-core-4.3.16.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/dubbo-api">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/613b5a0e2da9c2a6da437c44c06a0ee3348a66a6/spring-boot-gradle-plugin-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/b8674c642397658695bd00c0dd0a58609abdcdb0/spring-boot-gradle-plugin-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/5c802f762d2d87efc9d4974f350662c7eb728b79/spring-boot-loader-tools-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/4a4bf8e3bb3ee28888862f90a9566ff872e7e2f0/spring-boot-loader-tools-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/c4c526dcd345940951e92c4678dc49ce697ee540/spring-core-4.3.16.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/fe3f4186562c0dfa70a09510f886cc11a483ddde/spring-core-4.3.16.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/dubbo-api" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/dubbo-common">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/613b5a0e2da9c2a6da437c44c06a0ee3348a66a6/spring-boot-gradle-plugin-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/b8674c642397658695bd00c0dd0a58609abdcdb0/spring-boot-gradle-plugin-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/5c802f762d2d87efc9d4974f350662c7eb728b79/spring-boot-loader-tools-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/4a4bf8e3bb3ee28888862f90a9566ff872e7e2f0/spring-boot-loader-tools-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/c4c526dcd345940951e92c4678dc49ce697ee540/spring-core-4.3.16.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/fe3f4186562c0dfa70a09510f886cc11a483ddde/spring-core-4.3.16.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/dubbo-common" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/dubbo-consumer">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/613b5a0e2da9c2a6da437c44c06a0ee3348a66a6/spring-boot-gradle-plugin-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/b8674c642397658695bd00c0dd0a58609abdcdb0/spring-boot-gradle-plugin-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/5c802f762d2d87efc9d4974f350662c7eb728b79/spring-boot-loader-tools-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/4a4bf8e3bb3ee28888862f90a9566ff872e7e2f0/spring-boot-loader-tools-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/c4c526dcd345940951e92c4678dc49ce697ee540/spring-core-4.3.16.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/fe3f4186562c0dfa70a09510f886cc11a483ddde/spring-core-4.3.16.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/dubbo-consumer" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/dubbo-provider">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/613b5a0e2da9c2a6da437c44c06a0ee3348a66a6/spring-boot-gradle-plugin-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.12.RELEASE/b8674c642397658695bd00c0dd0a58609abdcdb0/spring-boot-gradle-plugin-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/5c802f762d2d87efc9d4974f350662c7eb728b79/spring-boot-loader-tools-1.5.12.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.12.RELEASE/4a4bf8e3bb3ee28888862f90a9566ff872e7e2f0/spring-boot-loader-tools-1.5.12.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/e9f2761e13da4228793ee5fcaa983889e68c4c61/dependency-management-plugin-1.0.5.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/c4c526dcd345940951e92c4678dc49ce697ee540/spring-core-4.3.16.RELEASE-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.16.RELEASE/fe3f4186562c0dfa70a09510f886cc11a483ddde/spring-core-4.3.16.RELEASE.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="F:/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/dubbo-provider" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="dubbo" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/announce" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/antlr" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/base-services" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/base-services-groovy" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/build-cache-http" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/build-comparison" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/build-init" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/cli" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/code-quality" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/composite-builds" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/core" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/dependency-management" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/diagnostics" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/ear" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/ide" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/ide-native" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/ide-play" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/installation-beacon" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/internal-android-performance-testing" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/internal-integ-testing" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/internal-performance-testing" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/internal-testing" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/ivy" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/jacoco" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/javascript" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/jvm-services" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/language-groovy" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/language-java" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/language-jvm" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/language-native" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/language-scala" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/launcher" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/logging" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/maven" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/messaging" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/model-core" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/model-groovy" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/native" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/osgi" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/platform-base" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/platform-jvm" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/platform-native" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/platform-play" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/plugin-development" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/plugin-use" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/plugins" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/process-services" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/publish" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/reporting" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/resources" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/resources-http" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/resources-s3" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/resources-sftp" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/scala" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/signing" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/test-kit" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/testing-base" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/testing-jvm" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/testing-native" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/tooling-api" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/tooling-api-builders" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/workers" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/src/wrapper" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/ant-1.9.6.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/ant-launcher-1.9.6.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-base-services-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-base-services-groovy-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-cli-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-core-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-docs-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-installation-beacon-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-jvm-services-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-launcher-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-logging-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-messaging-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-model-core-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-model-groovy-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-native-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-process-services-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-resources-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-runtime-api-info-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-script-kotlin-0.9.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-script-kotlin-compiler-plugin-0.9.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-script-kotlin-tooling-builders-0.9.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-script-kotlin-tooling-models-0.9.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-tooling-api-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/gradle-wrapper-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/groovy-all-2.4.11.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-announce-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-antlr-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-build-cache-http-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-build-comparison-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-build-init-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-code-quality-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-composite-builds-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-dependency-management-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-diagnostics-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-ear-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-ide-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-ide-native-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-ide-play-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-ivy-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-jacoco-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-javascript-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-language-groovy-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-language-java-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-language-jvm-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-language-native-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-language-scala-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-maven-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-osgi-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-platform-base-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-platform-jvm-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-platform-native-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-platform-play-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-plugin-development-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-plugin-use-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-plugins-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-publish-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-reporting-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-resources-http-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-resources-s3-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-resources-sftp-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-scala-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-signing-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-test-kit-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-testing-base-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-testing-jvm-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-testing-native-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-tooling-api-builders-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/gradle-workers-4.0.jar" />
+                  <option value="E:/kevin/22_soft/gradle-4.0-all/gradle-4.0/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/dubbo-api/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/dubbo-api/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/dubbo-api/settings.gradle" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/bootstrap/DubboProviderApplication.java" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/consumer/web/DubboConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/dubbo-common/build.gradle" />
+        <option value="$PROJECT_DIR$/dubbo-provider/build.gradle" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/build.gradle" />
+        <option value="$PROJECT_DIR$/dubbo-api/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provoider/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provoider/service/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dubbo-api/src/main/java/com/dubbo/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/bootstrap/DubboProviderApplication.java" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/consumer/web/controller/OrderInfoController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="541" />
+    <option name="y" value="81" />
+    <option name="width" value="1400" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dubbo" type="58d84e3e:PackageViewProjectNode" />
+              <item name="dubbo" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="58d84e3e:PackageViewProjectNode" />
+              <item name="dubbo-api" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-consumer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-consumer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-consumer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-consumer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-consumer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-consumer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-consumer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-provider" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-provider" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-provider" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-provider" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-provider" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-provider" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dubbo-provider" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-api_main" type="1039202d:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-api_main" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-api_main" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-api_test" type="1039202d:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-consumer_main" type="1039202d:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-consumer_main" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-consumer_main" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-consumer_main" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-consumer_main" type="1039202d:NonAndroidModuleNode" />
+              <item name="resources" type="b5c1fe26:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-provider_main" type="1039202d:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-provider_main" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-provider_main" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo-provider_main" type="1039202d:NonAndroidModuleNode" />
+              <item name="resources" type="b5c1fe26:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo_main" type="1039202d:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="dubbo_test" type="1039202d:NonAndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\01_sourceCode\dubbo\dubbo-provider\src\main\java\com\dubbo\provider" />
+      <recent name="F:\01_sourceCode\dubbo\dubbo-consumer\src\main\resources" />
+      <recent name="F:\01_sourceCode\dubbo\dubbo-provider\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.dubbo-provider">
+    <configuration name="DubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dubbo.consumer.web.DubboConsumerApplication" />
+      <module name="dubbo-consumer_main" />
+      <envs />
+    </configuration>
+    <configuration name="DubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dubbo.bootstrap.DubboProviderApplication" />
+      <module name="dubbo-provider_main" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="dubbo-provider" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.dubbo.bootstrap.DubboProviderApplication" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dubbo-provider" />
+      <envs />
+    </configuration>
+    <configuration name="provider" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value=":dubbo-provider:dist" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.dubbo-provider" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.provider" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.DubboProviderApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.DubboConsumerApplication" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="218b618b-cbe5-47a1-88b2-b0c83e31a84c" name="Default" comment="" />
+      <created>1524467748624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524467748624</updated>
+      <workItem from="1524467753224" duration="7621000" />
+      <workItem from="1524538148472" duration="42037000" />
+      <workItem from="1525230924709" duration="7979000" />
+      <workItem from="1525760461754" duration="5297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62934000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.49356222" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1036036" sideWeight="0.37285408" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33032694" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1036036" sideWeight="0.62714595" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13519314" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16094421" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.49356222" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.57403433" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dubbo-api/src/main/java/com/dubbo/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/bootstrap/DubboProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-api/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/service/OrderServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/dubbo-api/src/main/java/com/dubbo/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-common/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/dubbo-api/settings.gradle" />
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/stereotype/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba/dubbo/2.5.10/a5237633151f15038078b8c4dd6c71b63d444166/dubbo-2.5.10-sources.jar!/com/alibaba/dubbo/config/RegistryConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4456">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="356" column="0" lean-forward="false" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.5.12.RELEASE/85155172aaaaa8c3c52dcfc3d15ef4752d0959/spring-boot-1.5.12.RELEASE-sources.jar!/org/springframework/boot/logging/logback/LogbackLoggingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="140" column="31" lean-forward="false" selection-start-line="140" selection-start-column="31" selection-end-line="140" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.5.12.RELEASE/85155172aaaaa8c3c52dcfc3d15ef4752d0959/spring-boot-1.5.12.RELEASE-sources.jar!/org/springframework/boot/logging/Slf4JLoggingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.5.12.RELEASE/85155172aaaaa8c3c52dcfc3d15ef4752d0959/spring-boot-1.5.12.RELEASE-sources.jar!/org/springframework/boot/logging/AbstractLoggingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="181" column="17" lean-forward="false" selection-start-line="181" selection-start-column="17" selection-end-line="181" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.5.12.RELEASE/85155172aaaaa8c3c52dcfc3d15ef4752d0959/spring-boot-1.5.12.RELEASE-sources.jar!/org/springframework/boot/logging/LoggingSystemProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-740">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/1.5.12.RELEASE/297969e055084fa72dbcd8d879143323130a4dd0/spring-boot-actuator-1.5.12.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/ManagementServerProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874">
+          <caret line="105" column="16" lean-forward="false" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba/dubbo/2.5.10/a5237633151f15038078b8c4dd6c71b63d444166/dubbo-2.5.10-sources.jar!/com/alibaba/dubbo/config/AbstractConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba/dubbo/2.5.10/a5237633151f15038078b8c4dd6c71b63d444166/dubbo-2.5.10-sources.jar!/com/alibaba/dubbo/config/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="227" column="36" lean-forward="false" selection-start-line="227" selection-start-column="36" selection-end-line="227" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba/dubbo/2.5.10/a5237633151f15038078b8c4dd6c71b63d444166/dubbo-2.5.10-sources.jar!/com/alibaba/dubbo/common/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="614" column="0" lean-forward="false" selection-start-line="614" selection-start-column="0" selection-end-line="614" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba.boot/dubbo-spring-boot-autoconfigure/0.1.0/1c2ffe09cd3d5521f107b5dfb787dc2d03b2e554/dubbo-spring-boot-autoconfigure-0.1.0-sources.jar!/com/alibaba/boot/dubbo/autoconfigure/DubboAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="49" column="8" lean-forward="false" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba/dubbo/2.5.10/a5237633151f15038078b8c4dd6c71b63d444166/dubbo-2.5.10-sources.jar!/com/alibaba/dubbo/config/spring/beans/factory/annotation/ReferenceAnnotationBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="122" column="52" lean-forward="false" selection-start-line="122" selection-start-column="52" selection-end-line="122" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.16.RELEASE/5b766c7697e3a68741c6d0c07a394bff09f9f47d/spring-context-4.3.16.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="178" column="11" lean-forward="false" selection-start-line="178" selection-start-column="11" selection-end-line="178" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba/dubbo/2.5.10/a5237633151f15038078b8c4dd6c71b63d444166/dubbo-2.5.10-sources.jar!/com/alibaba/dubbo/config/spring/beans/factory/annotation/DubboConfigBindingBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="67" column="48" lean-forward="false" selection-start-line="67" selection-start-column="48" selection-end-line="67" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba/dubbo/2.5.10/a5237633151f15038078b8c4dd6c71b63d444166/dubbo-2.5.10-sources.jar!/com/alibaba/dubbo/config/spring/beans/factory/annotation/ReferenceBeanBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874">
+          <caret line="36" column="76" lean-forward="false" selection-start-line="36" selection-start-column="76" selection-end-line="36" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba/dubbo/2.5.10/a5237633151f15038078b8c4dd6c71b63d444166/dubbo-2.5.10-sources.jar!/com/alibaba/dubbo/config/spring/beans/factory/annotation/AbstractAnnotationConfigBeanBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2047">
+          <caret line="114" column="38" lean-forward="false" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba/dubbo/2.5.10/a5237633151f15038078b8c4dd6c71b63d444166/dubbo-2.5.10-sources.jar!/com/alibaba/dubbo/config/annotation/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1401">
+          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba/dubbo/2.5.10/a5237633151f15038078b8c4dd6c71b63d444166/dubbo-2.5.10-sources.jar!/com/alibaba/dubbo/config/annotation/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-common/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-524">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4692">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/service/OrderServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/bootstrap/DubboProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2875">
+          <caret line="125" column="55" lean-forward="false" selection-start-line="125" selection-start-column="55" selection-end-line="125" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-api/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-api/src/main/java/com/dubbo/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="53" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/consumer/web/controller/OrderInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/consumer/web/DubboConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dubbo-api_main|dubbo-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

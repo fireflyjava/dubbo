@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alibaba.boot:dubbo-spring-boot-actuator:0.1.0">
+    <CLASSES>
+      <root url="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba.boot/dubbo-spring-boot-actuator/0.1.0/87ce34cf3644d4084be015f8ef19d6c512d1597f/dubbo-spring-boot-actuator-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/.gradle/caches/modules-2/files-2.1/com.alibaba.boot/dubbo-spring-boot-actuator/0.1.0/4cd720cadf9a27d1d4fa34ae757256308c8601c1/dubbo-spring-boot-actuator-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

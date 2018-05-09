@@ -1,0 +1,138 @@
+buildscript {
+    ext {
+        springBootVersion = '1.5.12.RELEASE'
+    }
+    repositories {
+        maven {
+            url "http://maven.xx.com/nexus/content/groups/public/"
+        }
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+
+allprojects {
+    group 'com.firefly'
+    version '1.0'
+
+    ext {
+        profile = 'dev'
+    }
+
+    configurations.all {
+        exclude group: "commons-logging", module: "commons-logging"
+        exclude group: "org.springframework.boot", module: "spring-boot-starter-tomcat"
+        exclude group: "org.slf4j", module: "slf4j-log4j12"
+    }
+}
+
+
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'application'
+    apply plugin: 'eclipse'
+    apply plugin: 'idea'
+    apply plugin: 'io.spring.dependency-management'
+
+    javadoc {
+        options.tags = ["date"]
+    }
+
+    dependencyManagement {
+        imports {
+            mavenBom "org.springframework.boot:spring-boot-starter-parent:${springBootVersion}"
+        }
+    }
+
+    configurations.all {
+        resolutionStrategy.eachDependency { DependencyResolveDetails details ->
+            if (details.requested.group == 'com.fasterxml.jackson.core') {
+                details.useVersion "2.8.9"
+            }
+            if (details.requested.group == 'com.fasterxml.jackson.dataformat') {
+                details.useVersion "2.8.9"
+            }
+            if (details.requested.group == 'com.fasterxml.jackson.module') {
+                details.useVersion "2.8.9"
+            }
+        }
+    }
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    repositories {
+        maven {
+            url "http://maven.weoa.com/nexus/content/groups/public/"
+        }
+    }
+
+    compileJava {
+        options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
+    }
+
+    tasks.withType(JavaCompile) {
+        options.encoding = 'UTF-8'
+    }
+
+    applicationDistribution.from('src/main/resources') {
+        exclude('static')
+        exclude('com')
+        exclude('templates')
+        exclude('commands')
+        exclude('*-dev.properties')
+        exclude('rmb-client.properties')
+        exclude('gns-client.properties')
+        into 'conf'
+    }
+
+    applicationDistribution.from('src/main/resources/static') {
+        into 'web/static'
+    }
+
+    applicationDistribution.from('src/main/resources/templates') {
+        into 'web/templates'
+    }
+
+    startScripts.enabled = false
+
+    installDist {
+        into "${rootProject.projectDir}/dist/${project.name}"
+    }
+
+    clean {
+        delete "${rootProject.projectDir}/dist"
+        delete "${project.projectDir}/out"
+    }
+
+    tasks.create(name: 'resoucesExtract', dependsOn: installDist) {
+        doLast {
+            project.configurations.runtime.resolvedConfiguration.resolvedArtifacts.each { x ->
+                if (x.file.absolutePath.contains('dubbo')) {
+                    copy {
+                        from zipTree(x.file).matching {
+                            include '*.properties'
+                        }
+                        into "${rootProject.projectDir}/dist/${project.name}/conf"
+                    }
+                    copy {
+                        from zipTree(x.file).matching {
+                            include 'sql/**'
+                        }
+                        into "${rootProject.projectDir}/dist/${project.name}"
+                    }
+                    copy {
+                        from zipTree(x.file).matching {
+                            include 'static/**', 'templates/**'
+                        }
+                        into "${rootProject.projectDir}/dist/${project.name}/web"
+                    }
+                }
+            }
+        }
+    }
+
+    tasks.create(name: 'dist') {
+    }
+}

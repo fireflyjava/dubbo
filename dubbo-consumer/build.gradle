@@ -1,0 +1,20 @@
+apply plugin: 'org.springframework.boot'
+
+bootRun {
+    args = ["--spring.profiles.active=${profile}"]
+}
+
+bootRepackage.enabled = false
+
+dependencies {
+    compile project(':dubbo-api')
+    compileOnly 'org.projectlombok:lombok'
+}
+
+jar {
+    exclude('**/*.properties')
+    exclude('**/mappingrule')
+}
+project.configurations.runtime.resolvedConfiguration.resolvedArtifacts.each {
+    dist.dependsOn resoucesExtract
+}
